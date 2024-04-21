@@ -1,0 +1,112 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:10.880 --> 00:00:14.500
+hi everyone welcome back to the&nbsp;
+DEVISTY channel
+
+00:00:14.500 --> 00:00:18.000
+now i will make a simple telegram bot using google apps script
+
+00:00:21.440 --> 00:00:24.240
+first open telegram web or telegram
+
+00:00:24.240 --> 00:00:31.840
+mobile in the search box type bot father
+
+00:00:38.560 --> 00:00:43.840
+click bot father click the star button
+
+00:00:45.440 --> 00:00:49.360
+and click new bot enter the&nbsp;
+name of the bot to be created
+
+00:00:57.520 --> 00:01:00.000
+now enter bot username must end with bot
+
+00:01:03.920 --> 00:01:07.920
+bot account was created successfully&nbsp;
+this is the token we will use later
+
+00:01:10.080 --> 00:01:11.840
+now open google apps script
+
+00:01:18.160 --> 00:01:19.360
+create new project
+
+00:01:23.760 --> 00:01:25.840
+change project name
+
+00:01:36.080 --> 00:01:39.840
+then use the script
+
+00:01:40.960 --> 00:01:44.240
+you can download the script in the&nbsp;
+description section of this video
+
+00:01:50.080 --> 00:01:53.840
+replace the value with the telegram&nbsp;
+token that we created earlier
+
+00:02:01.920 --> 00:02:09.040
+to get the app url you have to deploy first&nbsp;
+click deploy button and select new deployment
+
+00:02:12.800 --> 00:02:21.840
+click gear icon then select web&nbsp;
+app enter a description as you wish
+
+00:02:23.760 --> 00:02:30.640
+in the execute a section select me in&nbsp;
+the who is access section select anyone&nbsp;&nbsp;
+
+00:02:31.200 --> 00:02:35.840
+click the deploy button wait&nbsp;
+until the process is complete
+
+00:02:42.880 --> 00:02:49.840
+give access
+
+00:03:06.160 --> 00:03:08.320
+okay this is the app url to use
+
+00:03:10.640 --> 00:03:11.760
+click the copy button
+
+00:03:14.720 --> 00:03:17.840
+then paste here
+
+00:03:21.520 --> 00:03:23.840
+now we have to run the set webhook function
+
+00:03:28.160 --> 00:03:31.840
+click the run button
+
+00:03:33.280 --> 00:03:45.840
+webhook serves to send a callback&nbsp;
+notification if the bot receives a new message
+
+00:03:46.880 --> 00:03:52.000
+now deploy with new version click the&nbsp;
+deploy button select manage deployments&nbsp;&nbsp;
+
+00:03:53.840 --> 00:04:00.320
+click the pencil icon in the version section&nbsp;
+select new version then click the deploy button&nbsp;&nbsp;
+
+00:04:01.040 --> 00:04:08.000
+keep in mind every time you make changes you must&nbsp;
+deploy with a new version now let's test the bot
+
+00:04:13.840 --> 00:04:15.120
+ok bot running well
+
+00:04:19.920 --> 00:04:27.840
+this is a list of commands&nbsp;
+you can add them as needed
+
+00:06:00.080 --> 00:06:05.840
+okay thanks for watching don't forget&nbsp;
+to like comment and subscribe thank you
+
