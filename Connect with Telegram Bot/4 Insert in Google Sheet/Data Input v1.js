@@ -87,8 +87,8 @@ function doPost(e) {
           }
           if(isCorrctLength){
             // sendText(id, "cheching in the Regex");
+            var CharacterDetected = false;
             for(let j=0;j<issueNumber[1].length;j++){
-              var CharacterDetected = false;
               var NumberArray = ["0","1","2","3","4","5","6","7","8","9"];
               if(NumberArray.indexOf(issueNumber[1][j]) == -1){
                 CharacterDetected = true;
